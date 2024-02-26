@@ -17,5 +17,3 @@ At AntiRaid, we are committed to providing efficient tools for Discord server ow
 Have questions or need support? Feel free to reach out to us via [email](mailto:contact@antiraid.xyz) or join our [Discord server](https://discord.com/invite/GsXBSdtru2).
 
 Thank you for choosing AntiRaid to enhance your Discord community!
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e72cd9af9dce&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
