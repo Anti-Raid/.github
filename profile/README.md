@@ -1,4 +1,4 @@
-# AntiRaid
+# AntiRaid by [Purrquinox](https://github.com/Purrquinox)
 
 Welcome to the AntiRaid GitHub organization, your hub for innovative solutions designed to enhance your Discord server experience.
 
